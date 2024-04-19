@@ -1,0 +1,13 @@
+package com.mourad.SpringApiStudents;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringApiStudentsApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
